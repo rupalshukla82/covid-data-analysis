@@ -29,7 +29,7 @@ To use this repository locally, install the following Python packages:
 
 ## Live Links
 
-   - GitHub URL: <a href="https://github.com/rupalshukla82/covid-data-analysis">Covid Data Analysis Repository</a>
+   - GitHub URL: Covid Data Analysis Repository
    - Live Demo : <a href="https://mybinder.org/v2/gh/rupalshukla82/covid-data-analysis/HEAD">Binder</a>
 
 ## Technology Used
